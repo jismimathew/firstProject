@@ -5,6 +5,6 @@ public class ArrayDemo {
       int[]  marksOfAllStudents = new int[70];
       marksOfAllStudents[0]=3;
         System.out.println("Added marks successfully");
-
+        System.out.println("Jismi Mathew");
     }
 }
